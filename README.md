@@ -2,7 +2,7 @@
 # us-flight-delay-eda-2015
 ==========================
 ---
-A hands-on exploratory data analysis (EDA) project using 2015 US flight delay data. This notebook follows a clean, modular 6-step pipeline for working with real-world datasets — from loading to visualization.
+Exploratory data analysis (EDA) project using 2015 US flight delay data. This notebook follows a clean, modular 6-step pipeline for working with real-world datasets — from loading to visualization.
 ---
 
 ==============
